@@ -1,0 +1,14 @@
+D:\ProgrammingFiles\PRN222\Chapter1\DNSdemo\bin\Debug\net8.0\DNSdemo.exe
+D:\ProgrammingFiles\PRN222\Chapter1\DNSdemo\bin\Debug\net8.0\DNSdemo.deps.json
+D:\ProgrammingFiles\PRN222\Chapter1\DNSdemo\bin\Debug\net8.0\DNSdemo.runtimeconfig.json
+D:\ProgrammingFiles\PRN222\Chapter1\DNSdemo\bin\Debug\net8.0\DNSdemo.dll
+D:\ProgrammingFiles\PRN222\Chapter1\DNSdemo\bin\Debug\net8.0\DNSdemo.pdb
+D:\ProgrammingFiles\PRN222\Chapter1\DNSdemo\obj\Debug\net8.0\DNSdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingFiles\PRN222\Chapter1\DNSdemo\obj\Debug\net8.0\DNSdemo.AssemblyInfoInputs.cache
+D:\ProgrammingFiles\PRN222\Chapter1\DNSdemo\obj\Debug\net8.0\DNSdemo.AssemblyInfo.cs
+D:\ProgrammingFiles\PRN222\Chapter1\DNSdemo\obj\Debug\net8.0\DNSdemo.csproj.CoreCompileInputs.cache
+D:\ProgrammingFiles\PRN222\Chapter1\DNSdemo\obj\Debug\net8.0\DNSdemo.dll
+D:\ProgrammingFiles\PRN222\Chapter1\DNSdemo\obj\Debug\net8.0\refint\DNSdemo.dll
+D:\ProgrammingFiles\PRN222\Chapter1\DNSdemo\obj\Debug\net8.0\DNSdemo.pdb
+D:\ProgrammingFiles\PRN222\Chapter1\DNSdemo\obj\Debug\net8.0\DNSdemo.genruntimeconfig.cache
+D:\ProgrammingFiles\PRN222\Chapter1\DNSdemo\obj\Debug\net8.0\ref\DNSdemo.dll

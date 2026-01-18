@@ -1,0 +1,14 @@
+D:\ProgrammingFiles\PRN222\ParkingServer\ParkingServer\bin\Debug\net8.0\ParkingServer.exe
+D:\ProgrammingFiles\PRN222\ParkingServer\ParkingServer\bin\Debug\net8.0\ParkingServer.deps.json
+D:\ProgrammingFiles\PRN222\ParkingServer\ParkingServer\bin\Debug\net8.0\ParkingServer.runtimeconfig.json
+D:\ProgrammingFiles\PRN222\ParkingServer\ParkingServer\bin\Debug\net8.0\ParkingServer.dll
+D:\ProgrammingFiles\PRN222\ParkingServer\ParkingServer\bin\Debug\net8.0\ParkingServer.pdb
+D:\ProgrammingFiles\PRN222\ParkingServer\ParkingServer\obj\Debug\net8.0\ParkingServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingFiles\PRN222\ParkingServer\ParkingServer\obj\Debug\net8.0\ParkingServer.AssemblyInfoInputs.cache
+D:\ProgrammingFiles\PRN222\ParkingServer\ParkingServer\obj\Debug\net8.0\ParkingServer.AssemblyInfo.cs
+D:\ProgrammingFiles\PRN222\ParkingServer\ParkingServer\obj\Debug\net8.0\ParkingServer.csproj.CoreCompileInputs.cache
+D:\ProgrammingFiles\PRN222\ParkingServer\ParkingServer\obj\Debug\net8.0\ParkingServer.dll
+D:\ProgrammingFiles\PRN222\ParkingServer\ParkingServer\obj\Debug\net8.0\refint\ParkingServer.dll
+D:\ProgrammingFiles\PRN222\ParkingServer\ParkingServer\obj\Debug\net8.0\ParkingServer.pdb
+D:\ProgrammingFiles\PRN222\ParkingServer\ParkingServer\obj\Debug\net8.0\ParkingServer.genruntimeconfig.cache
+D:\ProgrammingFiles\PRN222\ParkingServer\ParkingServer\obj\Debug\net8.0\ref\ParkingServer.dll

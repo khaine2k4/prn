@@ -1,0 +1,14 @@
+D:\ProgrammingFiles\PRN222\Chapter1\URIsDemo\bin\Debug\net8.0\URIsDemo.exe
+D:\ProgrammingFiles\PRN222\Chapter1\URIsDemo\bin\Debug\net8.0\URIsDemo.deps.json
+D:\ProgrammingFiles\PRN222\Chapter1\URIsDemo\bin\Debug\net8.0\URIsDemo.runtimeconfig.json
+D:\ProgrammingFiles\PRN222\Chapter1\URIsDemo\bin\Debug\net8.0\URIsDemo.dll
+D:\ProgrammingFiles\PRN222\Chapter1\URIsDemo\bin\Debug\net8.0\URIsDemo.pdb
+D:\ProgrammingFiles\PRN222\Chapter1\URIsDemo\obj\Debug\net8.0\URIsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingFiles\PRN222\Chapter1\URIsDemo\obj\Debug\net8.0\URIsDemo.AssemblyInfoInputs.cache
+D:\ProgrammingFiles\PRN222\Chapter1\URIsDemo\obj\Debug\net8.0\URIsDemo.AssemblyInfo.cs
+D:\ProgrammingFiles\PRN222\Chapter1\URIsDemo\obj\Debug\net8.0\URIsDemo.csproj.CoreCompileInputs.cache
+D:\ProgrammingFiles\PRN222\Chapter1\URIsDemo\obj\Debug\net8.0\URIsDemo.dll
+D:\ProgrammingFiles\PRN222\Chapter1\URIsDemo\obj\Debug\net8.0\refint\URIsDemo.dll
+D:\ProgrammingFiles\PRN222\Chapter1\URIsDemo\obj\Debug\net8.0\URIsDemo.pdb
+D:\ProgrammingFiles\PRN222\Chapter1\URIsDemo\obj\Debug\net8.0\URIsDemo.genruntimeconfig.cache
+D:\ProgrammingFiles\PRN222\Chapter1\URIsDemo\obj\Debug\net8.0\ref\URIsDemo.dll

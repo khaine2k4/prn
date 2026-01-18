@@ -1,0 +1,14 @@
+D:\ProgrammingFiles\PRN222\Chapter1\WebRequestWebResponseDemo\bin\Debug\net8.0\WebRequestWebResponseDemo.exe
+D:\ProgrammingFiles\PRN222\Chapter1\WebRequestWebResponseDemo\bin\Debug\net8.0\WebRequestWebResponseDemo.deps.json
+D:\ProgrammingFiles\PRN222\Chapter1\WebRequestWebResponseDemo\bin\Debug\net8.0\WebRequestWebResponseDemo.runtimeconfig.json
+D:\ProgrammingFiles\PRN222\Chapter1\WebRequestWebResponseDemo\bin\Debug\net8.0\WebRequestWebResponseDemo.dll
+D:\ProgrammingFiles\PRN222\Chapter1\WebRequestWebResponseDemo\bin\Debug\net8.0\WebRequestWebResponseDemo.pdb
+D:\ProgrammingFiles\PRN222\Chapter1\WebRequestWebResponseDemo\obj\Debug\net8.0\WebRequestWebResponseDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingFiles\PRN222\Chapter1\WebRequestWebResponseDemo\obj\Debug\net8.0\WebRequestWebResponseDemo.AssemblyInfoInputs.cache
+D:\ProgrammingFiles\PRN222\Chapter1\WebRequestWebResponseDemo\obj\Debug\net8.0\WebRequestWebResponseDemo.AssemblyInfo.cs
+D:\ProgrammingFiles\PRN222\Chapter1\WebRequestWebResponseDemo\obj\Debug\net8.0\WebRequestWebResponseDemo.csproj.CoreCompileInputs.cache
+D:\ProgrammingFiles\PRN222\Chapter1\WebRequestWebResponseDemo\obj\Debug\net8.0\WebRequestWebResponseDemo.dll
+D:\ProgrammingFiles\PRN222\Chapter1\WebRequestWebResponseDemo\obj\Debug\net8.0\refint\WebRequestWebResponseDemo.dll
+D:\ProgrammingFiles\PRN222\Chapter1\WebRequestWebResponseDemo\obj\Debug\net8.0\WebRequestWebResponseDemo.pdb
+D:\ProgrammingFiles\PRN222\Chapter1\WebRequestWebResponseDemo\obj\Debug\net8.0\WebRequestWebResponseDemo.genruntimeconfig.cache
+D:\ProgrammingFiles\PRN222\Chapter1\WebRequestWebResponseDemo\obj\Debug\net8.0\ref\WebRequestWebResponseDemo.dll

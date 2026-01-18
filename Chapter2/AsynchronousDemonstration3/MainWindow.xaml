@@ -1,0 +1,27 @@
+﻿<Window x:Class="AsyncWithTAP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Asynchronous with TAP"
+        Height="400"
+        Width="600"
+        MinHeight="300"
+        MinWidth="500">
+
+    <Grid>
+        <Button x:Name="btnStartButton"
+                Content="Start"
+                Width="75"
+                Height="24"
+                Margin="0,10,0,0"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Click="OnStartButtonClick"/>
+
+        <TextBox x:Name="txtResults"
+                 Margin="10,45,10,10"
+                 FontFamily="Consolas"
+                 TextWrapping="Wrap"
+                 VerticalScrollBarVisibility="Visible"
+                 IsReadOnly="True"/>
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+D:\ProgrammingFiles\PRN222\Chapter2\UsingTaskDemonstration1\bin\Debug\net8.0\UsingTaskDemonstration1.exe
+D:\ProgrammingFiles\PRN222\Chapter2\UsingTaskDemonstration1\bin\Debug\net8.0\UsingTaskDemonstration1.deps.json
+D:\ProgrammingFiles\PRN222\Chapter2\UsingTaskDemonstration1\bin\Debug\net8.0\UsingTaskDemonstration1.runtimeconfig.json
+D:\ProgrammingFiles\PRN222\Chapter2\UsingTaskDemonstration1\bin\Debug\net8.0\UsingTaskDemonstration1.dll
+D:\ProgrammingFiles\PRN222\Chapter2\UsingTaskDemonstration1\bin\Debug\net8.0\UsingTaskDemonstration1.pdb
+D:\ProgrammingFiles\PRN222\Chapter2\UsingTaskDemonstration1\obj\Debug\net8.0\UsingTaskDemonstration1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingFiles\PRN222\Chapter2\UsingTaskDemonstration1\obj\Debug\net8.0\UsingTaskDemonstration1.AssemblyInfoInputs.cache
+D:\ProgrammingFiles\PRN222\Chapter2\UsingTaskDemonstration1\obj\Debug\net8.0\UsingTaskDemonstration1.AssemblyInfo.cs
+D:\ProgrammingFiles\PRN222\Chapter2\UsingTaskDemonstration1\obj\Debug\net8.0\UsingTaskDemonstration1.csproj.CoreCompileInputs.cache
+D:\ProgrammingFiles\PRN222\Chapter2\UsingTaskDemonstration1\obj\Debug\net8.0\UsingTaskDemonstration1.dll
+D:\ProgrammingFiles\PRN222\Chapter2\UsingTaskDemonstration1\obj\Debug\net8.0\refint\UsingTaskDemonstration1.dll
+D:\ProgrammingFiles\PRN222\Chapter2\UsingTaskDemonstration1\obj\Debug\net8.0\UsingTaskDemonstration1.pdb
+D:\ProgrammingFiles\PRN222\Chapter2\UsingTaskDemonstration1\obj\Debug\net8.0\UsingTaskDemonstration1.genruntimeconfig.cache
+D:\ProgrammingFiles\PRN222\Chapter2\UsingTaskDemonstration1\obj\Debug\net8.0\ref\UsingTaskDemonstration1.dll
