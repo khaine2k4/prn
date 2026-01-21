@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{075C7C7A-64BE-4338-9C1F-5F58101D9BF7}|UsingTaskDemonstration3\\UsingTaskDemonstration3.csproj|d:\\programmingfiles\\prn222\\chapter2\\usingtaskdemonstration3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075C7C7A-64BE-4338-9C1F-5F58101D9BF7}|UsingTaskDemonstration3\\UsingTaskDemonstration3.csproj|solutionrelative:usingtaskdemonstration3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3009DB-D0F0-451B-9BE3-F3C6A11EF8B4}|UsingTaskDemonstration1\\UsingTaskDemonstration1.csproj|d:\\programmingfiles\\prn222\\chapter2\\usingtaskdemonstration1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3009DB-D0F0-451B-9BE3-F3C6A11EF8B4}|UsingTaskDemonstration1\\UsingTaskDemonstration1.csproj|solutionrelative:usingtaskdemonstration1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3009DB-D0F0-451B-9BE3-F3C6A11EF8B4}|UsingTaskDemonstration1\\UsingTaskDemonstration1.csproj|d:\\programmingfiles\\prn222\\chapter2\\usingtaskdemonstration1\\usingtaskdemonstration1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E3009DB-D0F0-451B-9BE3-F3C6A11EF8B4}|UsingTaskDemonstration1\\UsingTaskDemonstration1.csproj|solutionrelative:usingtaskdemonstration1\\usingtaskdemonstration1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5386BE8B-0A74-4ABB-A783-812FD42B6958}|UsingTaskDemonstration4\\UsingTaskDemonstration4.csproj|d:\\programmingfiles\\prn222\\chapter2\\usingtaskdemonstration4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5386BE8B-0A74-4ABB-A783-812FD42B6958}|UsingTaskDemonstration4\\UsingTaskDemonstration4.csproj|solutionrelative:usingtaskdemonstration4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81836699-E8D1-45B8-A5C1-BBA54C66C552}|AsynchronousDemonstration1\\AsynchronousDemonstration1.csproj|d:\\programmingfiles\\prn222\\chapter2\\asynchronousdemonstration1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81836699-E8D1-45B8-A5C1-BBA54C66C552}|AsynchronousDemonstration1\\AsynchronousDemonstration1.csproj|solutionrelative:asynchronousdemonstration1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4A7B4AE-912C-4CA8-895A-3B052A1CFA1D}|AsynchronousDemonstration3\\AsynchronousDemonstration3.csproj|d:\\programmingfiles\\prn222\\chapter2\\asynchronousdemonstration3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4A7B4AE-912C-4CA8-895A-3B052A1CFA1D}|AsynchronousDemonstration3\\AsynchronousDemonstration3.csproj|solutionrelative:asynchronousdemonstration3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{0E6FC589-E881-4A99-B052-345A78D30E9F}|AsynchronousDemonstration2\\AsynchronousDemonstration2.csproj|solutionrelative:asynchronousdemonstration2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81836699-E8D1-45B8-A5C1-BBA54C66C552}|AsynchronousDemonstration1\\AsynchronousDemonstration1.csproj|d:\\programmingfiles\\prn222\\chapter2\\asynchronousdemonstration1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81836699-E8D1-45B8-A5C1-BBA54C66C552}|AsynchronousDemonstration1\\AsynchronousDemonstration1.csproj|solutionrelative:asynchronousdemonstration1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{96FBE2EC-75B0-4B87-8AF9-2E93297B28CB}|UsingPLINQDemonstration2\\UsingPLINQDemonstration2.csproj|d:\\programmingfiles\\prn222\\chapter2\\usingplinqdemonstration2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96FBE2EC-75B0-4B87-8AF9-2E93297B28CB}|UsingPLINQDemonstration2\\UsingPLINQDemonstration2.csproj|solutionrelative:usingplinqdemonstration2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,20 +43,8 @@
       "RelativeMoniker": "D:0:0:{ACB37E57-6DD3-49F4-BFC9-445EFA462565}|UsingPLINQDemonstration1\\UsingPLINQDemonstration1.csproj|solutionrelative:usingplinqdemonstration1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5386BE8B-0A74-4ABB-A783-812FD42B6958}|UsingTaskDemonstration4\\UsingTaskDemonstration4.csproj|d:\\programmingfiles\\prn222\\chapter2\\usingtaskdemonstration4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5386BE8B-0A74-4ABB-A783-812FD42B6958}|UsingTaskDemonstration4\\UsingTaskDemonstration4.csproj|solutionrelative:usingtaskdemonstration4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{075C7C7A-64BE-4338-9C1F-5F58101D9BF7}|UsingTaskDemonstration3\\UsingTaskDemonstration3.csproj|d:\\programmingfiles\\prn222\\chapter2\\usingtaskdemonstration3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075C7C7A-64BE-4338-9C1F-5F58101D9BF7}|UsingTaskDemonstration3\\UsingTaskDemonstration3.csproj|solutionrelative:usingtaskdemonstration3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D2895D21-44EA-4C07-A389-E27789C688C4}|UsingTaskDemonstration2\\UsingTaskDemonstration2.csproj|d:\\programmingfiles\\prn222\\chapter2\\usingtaskdemonstration2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2895D21-44EA-4C07-A389-E27789C688C4}|UsingTaskDemonstration2\\UsingTaskDemonstration2.csproj|solutionrelative:usingtaskdemonstration2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E3009DB-D0F0-451B-9BE3-F3C6A11EF8B4}|UsingTaskDemonstration1\\UsingTaskDemonstration1.csproj|d:\\programmingfiles\\prn222\\chapter2\\usingtaskdemonstration1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E3009DB-D0F0-451B-9BE3-F3C6A11EF8B4}|UsingTaskDemonstration1\\UsingTaskDemonstration1.csproj|solutionrelative:usingtaskdemonstration1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,23 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\AsynchronousDemonstration3\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "AsynchronousDemonstration3\\MainWindow.xaml",
-              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\AsynchronousDemonstration3\\MainWindow.xaml",
-              "RelativeToolTip": "AsynchronousDemonstration3\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-01-18T10:39:21.112Z",
+              "DocumentIndex": 2,
+              "Title": "UsingTaskDemonstration1",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\UsingTaskDemonstration1\\UsingTaskDemonstration1.csproj",
+              "RelativeDocumentMoniker": "UsingTaskDemonstration1\\UsingTaskDemonstration1.csproj",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\UsingTaskDemonstration1\\UsingTaskDemonstration1.csproj",
+              "RelativeToolTip": "UsingTaskDemonstration1\\UsingTaskDemonstration1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-19T08:11:19.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\AsynchronousDemonstration3\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AsynchronousDemonstration3\\MainWindow.xaml.cs",
@@ -79,33 +84,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\AsynchronousDemonstration2\\Program.cs",
-              "RelativeDocumentMoniker": "AsynchronousDemonstration2\\Program.cs",
-              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\AsynchronousDemonstration2\\Program.cs",
-              "RelativeToolTip": "AsynchronousDemonstration2\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T10:38:27.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\AsynchronousDemonstration1\\Program.cs",
               "RelativeDocumentMoniker": "AsynchronousDemonstration1\\Program.cs",
               "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\AsynchronousDemonstration1\\Program.cs",
               "RelativeToolTip": "AsynchronousDemonstration1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T10:37:39.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\UsingPLINQDemonstration2\\Program.cs",
               "RelativeDocumentMoniker": "UsingPLINQDemonstration2\\Program.cs",
@@ -113,12 +105,11 @@
               "RelativeToolTip": "UsingPLINQDemonstration2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T10:35:31.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T10:35:31.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\UsingPLINQDemonstration1\\Program.cs",
               "RelativeDocumentMoniker": "UsingPLINQDemonstration1\\Program.cs",
@@ -126,38 +117,73 @@
               "RelativeToolTip": "UsingPLINQDemonstration1\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAowBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T10:33:35.915Z",
+              "WhenOpened": "2026-01-18T10:33:35.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\UsingTaskDemonstration1\\Program.cs",
+              "RelativeDocumentMoniker": "UsingTaskDemonstration1\\Program.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\UsingTaskDemonstration1\\Program.cs",
+              "RelativeToolTip": "UsingTaskDemonstration1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T09:13:55.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\UsingTaskDemonstration4\\Program.cs",
-              "RelativeDocumentMoniker": "UsingTaskDemonstration4\\Program.cs",
-              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\UsingTaskDemonstration4\\Program.cs",
-              "RelativeToolTip": "UsingTaskDemonstration4\\Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T10:32:10.085Z",
-              "EditorCaption": ""
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\AsynchronousDemonstration3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AsynchronousDemonstration3\\MainWindow.xaml",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\AsynchronousDemonstration3\\MainWindow.xaml",
+              "RelativeToolTip": "AsynchronousDemonstration3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-18T10:39:21.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\UsingTaskDemonstration3\\Program.cs",
               "RelativeDocumentMoniker": "UsingTaskDemonstration3\\Program.cs",
               "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\UsingTaskDemonstration3\\Program.cs",
               "RelativeToolTip": "UsingTaskDemonstration3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T10:30:07.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\AsynchronousDemonstration2\\Program.cs",
+              "RelativeDocumentMoniker": "AsynchronousDemonstration2\\Program.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\AsynchronousDemonstration2\\Program.cs",
+              "RelativeToolTip": "AsynchronousDemonstration2\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T10:38:27.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\UsingTaskDemonstration4\\Program.cs",
+              "RelativeDocumentMoniker": "UsingTaskDemonstration4\\Program.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\UsingTaskDemonstration4\\Program.cs",
+              "RelativeToolTip": "UsingTaskDemonstration4\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T10:32:10.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\UsingTaskDemonstration2\\Program.cs",
               "RelativeDocumentMoniker": "UsingTaskDemonstration2\\Program.cs",
@@ -165,25 +191,11 @@
               "RelativeToolTip": "UsingTaskDemonstration2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T09:32:51.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T09:32:51.403Z"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\UsingTaskDemonstration1\\Program.cs",
-              "RelativeDocumentMoniker": "UsingTaskDemonstration1\\Program.cs",
-              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter2\\UsingTaskDemonstration1\\Program.cs",
-              "RelativeToolTip": "UsingTaskDemonstration1\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T09:13:55.648Z",
-              "EditorCaption": ""
             }
           ]
         }
