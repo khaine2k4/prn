@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+
+# IDE khác
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store

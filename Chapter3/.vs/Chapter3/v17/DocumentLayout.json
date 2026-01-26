@@ -1,12 +1,615 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{441E7352-B391-408C-A28C-A280B30DDEDA}|DI - Ambient Context Demo\\DI - Ambient Context Demo.csproj|d:\\programmingfiles\\prn222\\chapter3\\di - ambient context demo\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441E7352-B391-408C-A28C-A280B30DDEDA}|DI - Ambient Context Demo\\DI - Ambient Context Demo.csproj|solutionrelative:di - ambient context demo\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441E7352-B391-408C-A28C-A280B30DDEDA}|DI - Ambient Context Demo\\DI - Ambient Context Demo.csproj|d:\\programmingfiles\\prn222\\chapter3\\di - ambient context demo\\model\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441E7352-B391-408C-A28C-A280B30DDEDA}|DI - Ambient Context Demo\\DI - Ambient Context Demo.csproj|solutionrelative:di - ambient context demo\\model\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441E7352-B391-408C-A28C-A280B30DDEDA}|DI - Ambient Context Demo\\DI - Ambient Context Demo.csproj|d:\\programmingfiles\\prn222\\chapter3\\di - ambient context demo\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441E7352-B391-408C-A28C-A280B30DDEDA}|DI - Ambient Context Demo\\DI - Ambient Context Demo.csproj|solutionrelative:di - ambient context demo\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441E7352-B391-408C-A28C-A280B30DDEDA}|DI - Ambient Context Demo\\DI - Ambient Context Demo.csproj|d:\\programmingfiles\\prn222\\chapter3\\di - ambient context demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441E7352-B391-408C-A28C-A280B30DDEDA}|DI - Ambient Context Demo\\DI - Ambient Context Demo.csproj|solutionrelative:di - ambient context demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46137860-F9B0-4E30-A35E-DDC9E07CDC44}|DI-MethodInjectionPatternDemo\\DI-MethodInjectionPatternDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\di-methodinjectionpatterndemo\\di-methodinjectionpatterndemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46137860-F9B0-4E30-A35E-DDC9E07CDC44}|DI-MethodInjectionPatternDemo\\DI-MethodInjectionPatternDemo.csproj|solutionrelative:di-methodinjectionpatterndemo\\di-methodinjectionpatterndemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46137860-F9B0-4E30-A35E-DDC9E07CDC44}|DI-MethodInjectionPatternDemo\\DI-MethodInjectionPatternDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\di-methodinjectionpatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46137860-F9B0-4E30-A35E-DDC9E07CDC44}|DI-MethodInjectionPatternDemo\\DI-MethodInjectionPatternDemo.csproj|solutionrelative:di-methodinjectionpatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46137860-F9B0-4E30-A35E-DDC9E07CDC44}|DI-MethodInjectionPatternDemo\\DI-MethodInjectionPatternDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\di-methodinjectionpatterndemo\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46137860-F9B0-4E30-A35E-DDC9E07CDC44}|DI-MethodInjectionPatternDemo\\DI-MethodInjectionPatternDemo.csproj|solutionrelative:di-methodinjectionpatterndemo\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46137860-F9B0-4E30-A35E-DDC9E07CDC44}|DI-MethodInjectionPatternDemo\\DI-MethodInjectionPatternDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\di-methodinjectionpatterndemo\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46137860-F9B0-4E30-A35E-DDC9E07CDC44}|DI-MethodInjectionPatternDemo\\DI-MethodInjectionPatternDemo.csproj|solutionrelative:di-methodinjectionpatterndemo\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DE6B11-F356-4A1A-9C2F-21508B5DAC0C}|DI-PropertyInjectionPatternDemo\\DI-PropertyInjectionPatternDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\di-propertyinjectionpatterndemo\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DE6B11-F356-4A1A-9C2F-21508B5DAC0C}|DI-PropertyInjectionPatternDemo\\DI-PropertyInjectionPatternDemo.csproj|solutionrelative:di-propertyinjectionpatterndemo\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5580D84C-49BA-432D-9B88-15B523EEBB8F}|DI-ConstructorInjectionPatternDemo\\DI-ConstructorInjectionPatternDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\di-constructorinjectionpatterndemo\\di-constructorinjectionpatterndemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5580D84C-49BA-432D-9B88-15B523EEBB8F}|DI-ConstructorInjectionPatternDemo\\DI-ConstructorInjectionPatternDemo.csproj|solutionrelative:di-constructorinjectionpatterndemo\\di-constructorinjectionpatterndemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DE6B11-F356-4A1A-9C2F-21508B5DAC0C}|DI-PropertyInjectionPatternDemo\\DI-PropertyInjectionPatternDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\di-propertyinjectionpatterndemo\\di-propertyinjectionpatterndemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2DE6B11-F356-4A1A-9C2F-21508B5DAC0C}|DI-PropertyInjectionPatternDemo\\DI-PropertyInjectionPatternDemo.csproj|solutionrelative:di-propertyinjectionpatterndemo\\di-propertyinjectionpatterndemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DE6B11-F356-4A1A-9C2F-21508B5DAC0C}|DI-PropertyInjectionPatternDemo\\DI-PropertyInjectionPatternDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\di-propertyinjectionpatterndemo\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DE6B11-F356-4A1A-9C2F-21508B5DAC0C}|DI-PropertyInjectionPatternDemo\\DI-PropertyInjectionPatternDemo.csproj|solutionrelative:di-propertyinjectionpatterndemo\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DE6B11-F356-4A1A-9C2F-21508B5DAC0C}|DI-PropertyInjectionPatternDemo\\DI-PropertyInjectionPatternDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\di-propertyinjectionpatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DE6B11-F356-4A1A-9C2F-21508B5DAC0C}|DI-PropertyInjectionPatternDemo\\DI-PropertyInjectionPatternDemo.csproj|solutionrelative:di-propertyinjectionpatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9292720-A5FC-44D0-AB01-02511CAA6567}|IoCPatternDemo\\IoCPatternDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\iocpatterndemo\\model\\imoviereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9292720-A5FC-44D0-AB01-02511CAA6567}|IoCPatternDemo\\IoCPatternDemo.csproj|solutionrelative:iocpatterndemo\\model\\imoviereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5580D84C-49BA-432D-9B88-15B523EEBB8F}|DI-ConstructorInjectionPatternDemo\\DI-ConstructorInjectionPatternDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\di-constructorinjectionpatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5580D84C-49BA-432D-9B88-15B523EEBB8F}|DI-ConstructorInjectionPatternDemo\\DI-ConstructorInjectionPatternDemo.csproj|solutionrelative:di-constructorinjectionpatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5580D84C-49BA-432D-9B88-15B523EEBB8F}|DI-ConstructorInjectionPatternDemo\\DI-ConstructorInjectionPatternDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\di-constructorinjectionpatterndemo\\model\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5580D84C-49BA-432D-9B88-15B523EEBB8F}|DI-ConstructorInjectionPatternDemo\\DI-ConstructorInjectionPatternDemo.csproj|solutionrelative:di-constructorinjectionpatterndemo\\model\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5580D84C-49BA-432D-9B88-15B523EEBB8F}|DI-ConstructorInjectionPatternDemo\\DI-ConstructorInjectionPatternDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\di-constructorinjectionpatterndemo\\model\\businesslogiclayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5580D84C-49BA-432D-9B88-15B523EEBB8F}|DI-ConstructorInjectionPatternDemo\\DI-ConstructorInjectionPatternDemo.csproj|solutionrelative:di-constructorinjectionpatterndemo\\model\\businesslogiclayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D393F168-278B-4AF4-8BAE-92B5D70C1CE8}|ServiceCollectionClassDemo\\ServiceCollectionClassDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\servicecollectionclassdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D393F168-278B-4AF4-8BAE-92B5D70C1CE8}|ServiceCollectionClassDemo\\ServiceCollectionClassDemo.csproj|solutionrelative:servicecollectionclassdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D393F168-278B-4AF4-8BAE-92B5D70C1CE8}|ServiceCollectionClassDemo\\ServiceCollectionClassDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\servicecollectionclassdemo\\model\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D393F168-278B-4AF4-8BAE-92B5D70C1CE8}|ServiceCollectionClassDemo\\ServiceCollectionClassDemo.csproj|solutionrelative:servicecollectionclassdemo\\model\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D393F168-278B-4AF4-8BAE-92B5D70C1CE8}|ServiceCollectionClassDemo\\ServiceCollectionClassDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\servicecollectionclassdemo\\model\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D393F168-278B-4AF4-8BAE-92B5D70C1CE8}|ServiceCollectionClassDemo\\ServiceCollectionClassDemo.csproj|solutionrelative:servicecollectionclassdemo\\model\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D393F168-278B-4AF4-8BAE-92B5D70C1CE8}|ServiceCollectionClassDemo\\ServiceCollectionClassDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\servicecollectionclassdemo\\servicecollectionclassdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D393F168-278B-4AF4-8BAE-92B5D70C1CE8}|ServiceCollectionClassDemo\\ServiceCollectionClassDemo.csproj|solutionrelative:servicecollectionclassdemo\\servicecollectionclassdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9292720-A5FC-44D0-AB01-02511CAA6567}|IoCPatternDemo\\IoCPatternDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\iocpatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9292720-A5FC-44D0-AB01-02511CAA6567}|IoCPatternDemo\\IoCPatternDemo.csproj|solutionrelative:iocpatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9292720-A5FC-44D0-AB01-02511CAA6567}|IoCPatternDemo\\IoCPatternDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\iocpatterndemo\\model\\xmlmoviereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9292720-A5FC-44D0-AB01-02511CAA6567}|IoCPatternDemo\\IoCPatternDemo.csproj|solutionrelative:iocpatterndemo\\model\\xmlmoviereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9292720-A5FC-44D0-AB01-02511CAA6567}|IoCPatternDemo\\IoCPatternDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\iocpatterndemo\\model\\jsonmoviereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9292720-A5FC-44D0-AB01-02511CAA6567}|IoCPatternDemo\\IoCPatternDemo.csproj|solutionrelative:iocpatterndemo\\model\\jsonmoviereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9292720-A5FC-44D0-AB01-02511CAA6567}|IoCPatternDemo\\IoCPatternDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\iocpatterndemo\\model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9292720-A5FC-44D0-AB01-02511CAA6567}|IoCPatternDemo\\IoCPatternDemo.csproj|solutionrelative:iocpatterndemo\\model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9292720-A5FC-44D0-AB01-02511CAA6567}|IoCPatternDemo\\IoCPatternDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\iocpatterndemo\\data\\moviedb.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A9292720-A5FC-44D0-AB01-02511CAA6567}|IoCPatternDemo\\IoCPatternDemo.csproj|solutionrelative:iocpatterndemo\\data\\moviedb.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9292720-A5FC-44D0-AB01-02511CAA6567}|IoCPatternDemo\\IoCPatternDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\iocpatterndemo\\data\\moviedb.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9292720-A5FC-44D0-AB01-02511CAA6567}|IoCPatternDemo\\IoCPatternDemo.csproj|solutionrelative:iocpatterndemo\\data\\moviedb.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA641102-59E3-4F4E-B929-0BC954991003}|InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\interfacesegregationprincipledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA641102-59E3-4F4E-B929-0BC954991003}|InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj|solutionrelative:interfacesegregationprincipledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA641102-59E3-4F4E-B929-0BC954991003}|InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\interfacesegregationprincipledemo\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA641102-59E3-4F4E-B929-0BC954991003}|InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj|solutionrelative:interfacesegregationprincipledemo\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA641102-59E3-4F4E-B929-0BC954991003}|InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\interfacesegregationprincipledemo\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA641102-59E3-4F4E-B929-0BC954991003}|InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj|solutionrelative:interfacesegregationprincipledemo\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA641102-59E3-4F4E-B929-0BC954991003}|InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\interfacesegregationprincipledemo\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA641102-59E3-4F4E-B929-0BC954991003}|InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj|solutionrelative:interfacesegregationprincipledemo\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA641102-59E3-4F4E-B929-0BC954991003}|InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\interfacesegregationprincipledemo\\data\\bookstore1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA641102-59E3-4F4E-B929-0BC954991003}|InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj|solutionrelative:interfacesegregationprincipledemo\\data\\bookstore1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA641102-59E3-4F4E-B929-0BC954991003}|InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\interfacesegregationprincipledemo\\interfacesegregationprincipledemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA641102-59E3-4F4E-B929-0BC954991003}|InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj|solutionrelative:interfacesegregationprincipledemo\\interfacesegregationprincipledemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA641102-59E3-4F4E-B929-0BC954991003}|InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\interfacesegregationprincipledemo\\data\\bookstore2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA641102-59E3-4F4E-B929-0BC954991003}|InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj|solutionrelative:interfacesegregationprincipledemo\\data\\bookstore2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA641102-59E3-4F4E-B929-0BC954991003}|InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj|d:\\programmingfiles\\prn222\\chapter3\\interfacesegregationprincipledemo\\data\\bookstore3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA641102-59E3-4F4E-B929-0BC954991003}|InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj|solutionrelative:interfacesegregationprincipledemo\\data\\bookstore3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI - Ambient Context Demo\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "DI - Ambient Context Demo\\Model\\Department.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI - Ambient Context Demo\\Model\\Department.cs",
+              "RelativeToolTip": "DI - Ambient Context Demo\\Model\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:10:34.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Provider.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI - Ambient Context Demo\\Model\\Provider.cs",
+              "RelativeDocumentMoniker": "DI - Ambient Context Demo\\Model\\Provider.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI - Ambient Context Demo\\Model\\Provider.cs",
+              "RelativeToolTip": "DI - Ambient Context Demo\\Model\\Provider.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:10:43.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI - Ambient Context Demo\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "DI - Ambient Context Demo\\Model\\Employee.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI - Ambient Context Demo\\Model\\Employee.cs",
+              "RelativeToolTip": "DI - Ambient Context Demo\\Model\\Employee.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:10:36.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI - Ambient Context Demo\\Program.cs",
+              "RelativeDocumentMoniker": "DI - Ambient Context Demo\\Program.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI - Ambient Context Demo\\Program.cs",
+              "RelativeToolTip": "DI - Ambient Context Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:10:13.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DI-MethodInjectionPatternDemo",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-MethodInjectionPatternDemo\\DI-MethodInjectionPatternDemo.csproj",
+              "RelativeDocumentMoniker": "DI-MethodInjectionPatternDemo\\DI-MethodInjectionPatternDemo.csproj",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-MethodInjectionPatternDemo\\DI-MethodInjectionPatternDemo.csproj",
+              "RelativeToolTip": "DI-MethodInjectionPatternDemo\\DI-MethodInjectionPatternDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-26T08:02:42.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-MethodInjectionPatternDemo\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "DI-MethodInjectionPatternDemo\\Model\\Department.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-MethodInjectionPatternDemo\\Model\\Department.cs",
+              "RelativeToolTip": "DI-MethodInjectionPatternDemo\\Model\\Department.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:02:55.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-MethodInjectionPatternDemo\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "DI-MethodInjectionPatternDemo\\Model\\Employee.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-MethodInjectionPatternDemo\\Model\\Employee.cs",
+              "RelativeToolTip": "DI-MethodInjectionPatternDemo\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:02:55.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-MethodInjectionPatternDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DI-MethodInjectionPatternDemo\\Program.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-MethodInjectionPatternDemo\\Program.cs",
+              "RelativeToolTip": "DI-MethodInjectionPatternDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:02:16.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-PropertyInjectionPatternDemo\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "DI-PropertyInjectionPatternDemo\\Model\\Department.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-PropertyInjectionPatternDemo\\Model\\Department.cs",
+              "RelativeToolTip": "DI-PropertyInjectionPatternDemo\\Model\\Department.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:55:54.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DI-ConstructorInjectionPatternDemo",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-ConstructorInjectionPatternDemo\\DI-ConstructorInjectionPatternDemo.csproj",
+              "RelativeDocumentMoniker": "DI-ConstructorInjectionPatternDemo\\DI-ConstructorInjectionPatternDemo.csproj",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-ConstructorInjectionPatternDemo\\DI-ConstructorInjectionPatternDemo.csproj",
+              "RelativeToolTip": "DI-ConstructorInjectionPatternDemo\\DI-ConstructorInjectionPatternDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-26T07:48:59.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DI-PropertyInjectionPatternDemo",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-PropertyInjectionPatternDemo\\DI-PropertyInjectionPatternDemo.csproj",
+              "RelativeDocumentMoniker": "DI-PropertyInjectionPatternDemo\\DI-PropertyInjectionPatternDemo.csproj",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-PropertyInjectionPatternDemo\\DI-PropertyInjectionPatternDemo.csproj",
+              "RelativeToolTip": "DI-PropertyInjectionPatternDemo\\DI-PropertyInjectionPatternDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-26T08:01:45.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-PropertyInjectionPatternDemo\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "DI-PropertyInjectionPatternDemo\\Model\\Employee.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-PropertyInjectionPatternDemo\\Model\\Employee.cs",
+              "RelativeToolTip": "DI-PropertyInjectionPatternDemo\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:56:05.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-PropertyInjectionPatternDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DI-PropertyInjectionPatternDemo\\Program.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-PropertyInjectionPatternDemo\\Program.cs",
+              "RelativeToolTip": "DI-PropertyInjectionPatternDemo\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:49:42.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataAccessLayer.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-ConstructorInjectionPatternDemo\\Model\\DataAccessLayer.cs",
+              "RelativeDocumentMoniker": "DI-ConstructorInjectionPatternDemo\\Model\\DataAccessLayer.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-ConstructorInjectionPatternDemo\\Model\\DataAccessLayer.cs",
+              "RelativeToolTip": "DI-ConstructorInjectionPatternDemo\\Model\\DataAccessLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:41:13.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BusinessLogicLayer.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-ConstructorInjectionPatternDemo\\Model\\BusinessLogicLayer.cs",
+              "RelativeDocumentMoniker": "DI-ConstructorInjectionPatternDemo\\Model\\BusinessLogicLayer.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-ConstructorInjectionPatternDemo\\Model\\BusinessLogicLayer.cs",
+              "RelativeToolTip": "DI-ConstructorInjectionPatternDemo\\Model\\BusinessLogicLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:40:57.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-ConstructorInjectionPatternDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DI-ConstructorInjectionPatternDemo\\Program.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\DI-ConstructorInjectionPatternDemo\\Program.cs",
+              "RelativeToolTip": "DI-ConstructorInjectionPatternDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:39:31.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IWriter.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\ServiceCollectionClassDemo\\Model\\IWriter.cs",
+              "RelativeDocumentMoniker": "ServiceCollectionClassDemo\\Model\\IWriter.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\ServiceCollectionClassDemo\\Model\\IWriter.cs",
+              "RelativeToolTip": "ServiceCollectionClassDemo\\Model\\IWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:35:08.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMovieReader.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\IoCPatternDemo\\Model\\IMovieReader.cs",
+              "RelativeDocumentMoniker": "IoCPatternDemo\\Model\\IMovieReader.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\IoCPatternDemo\\Model\\IMovieReader.cs",
+              "RelativeToolTip": "IoCPatternDemo\\Model\\IMovieReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:26:42.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServiceCollectionClassDemo",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\ServiceCollectionClassDemo\\ServiceCollectionClassDemo.csproj",
+              "RelativeDocumentMoniker": "ServiceCollectionClassDemo\\ServiceCollectionClassDemo.csproj",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\ServiceCollectionClassDemo\\ServiceCollectionClassDemo.csproj",
+              "RelativeToolTip": "ServiceCollectionClassDemo\\ServiceCollectionClassDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-26T07:35:20.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Writer.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\ServiceCollectionClassDemo\\Model\\Writer.cs",
+              "RelativeDocumentMoniker": "ServiceCollectionClassDemo\\Model\\Writer.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\ServiceCollectionClassDemo\\Model\\Writer.cs",
+              "RelativeToolTip": "ServiceCollectionClassDemo\\Model\\Writer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:34:54.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\ServiceCollectionClassDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceCollectionClassDemo\\Program.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\ServiceCollectionClassDemo\\Program.cs",
+              "RelativeToolTip": "ServiceCollectionClassDemo\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:34:21.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "XMLMovieReader.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\IoCPatternDemo\\Model\\XMLMovieReader.cs",
+              "RelativeDocumentMoniker": "IoCPatternDemo\\Model\\XMLMovieReader.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\IoCPatternDemo\\Model\\XMLMovieReader.cs",
+              "RelativeToolTip": "IoCPatternDemo\\Model\\XMLMovieReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:27:16.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "JSONMovieReader.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\IoCPatternDemo\\Model\\JSONMovieReader.cs",
+              "RelativeDocumentMoniker": "IoCPatternDemo\\Model\\JSONMovieReader.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\IoCPatternDemo\\Model\\JSONMovieReader.cs",
+              "RelativeToolTip": "IoCPatternDemo\\Model\\JSONMovieReader.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:27:05.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\IoCPatternDemo\\Model\\Movie.cs",
+              "RelativeDocumentMoniker": "IoCPatternDemo\\Model\\Movie.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\IoCPatternDemo\\Model\\Movie.cs",
+              "RelativeToolTip": "IoCPatternDemo\\Model\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:26:52.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MovieDB.xml",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\IoCPatternDemo\\Data\\MovieDB.xml",
+              "RelativeDocumentMoniker": "IoCPatternDemo\\Data\\MovieDB.xml",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\IoCPatternDemo\\Data\\MovieDB.xml",
+              "RelativeToolTip": "IoCPatternDemo\\Data\\MovieDB.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-01-26T07:25:01.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MovieDB.json",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\IoCPatternDemo\\Data\\MovieDB.json",
+              "RelativeDocumentMoniker": "IoCPatternDemo\\Data\\MovieDB.json",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\IoCPatternDemo\\Data\\MovieDB.json",
+              "RelativeToolTip": "IoCPatternDemo\\Data\\MovieDB.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-26T07:24:18.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\IoCPatternDemo\\Program.cs",
+              "RelativeDocumentMoniker": "IoCPatternDemo\\Program.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\IoCPatternDemo\\Program.cs",
+              "RelativeToolTip": "IoCPatternDemo\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:21:05.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\InterfaceSegregationPrincipleDemo\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrincipleDemo\\Model\\Book.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\InterfaceSegregationPrincipleDemo\\Model\\Book.cs",
+              "RelativeToolTip": "InterfaceSegregationPrincipleDemo\\Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:16:29.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\InterfaceSegregationPrincipleDemo\\Model\\IBook.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrincipleDemo\\Model\\IBook.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\InterfaceSegregationPrincipleDemo\\Model\\IBook.cs",
+              "RelativeToolTip": "InterfaceSegregationPrincipleDemo\\Model\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:16:28.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InterfaceSegregationPrincipleDemo",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj",
+              "RelativeToolTip": "InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-26T07:12:42.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BookStore2.json",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\InterfaceSegregationPrincipleDemo\\Data\\BookStore2.json",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrincipleDemo\\Data\\BookStore2.json",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\InterfaceSegregationPrincipleDemo\\Data\\BookStore2.json",
+              "RelativeToolTip": "InterfaceSegregationPrincipleDemo\\Data\\BookStore2.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-26T07:14:03.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BookStore1.json",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\InterfaceSegregationPrincipleDemo\\Data\\BookStore1.json",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrincipleDemo\\Data\\BookStore1.json",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\InterfaceSegregationPrincipleDemo\\Data\\BookStore1.json",
+              "RelativeToolTip": "InterfaceSegregationPrincipleDemo\\Data\\BookStore1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-26T07:13:18.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\InterfaceSegregationPrincipleDemo\\Utilities\\Utilities.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrincipleDemo\\Utilities\\Utilities.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\InterfaceSegregationPrincipleDemo\\Utilities\\Utilities.cs",
+              "RelativeToolTip": "InterfaceSegregationPrincipleDemo\\Utilities\\Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:12:51.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\InterfaceSegregationPrincipleDemo\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrincipleDemo\\Program.cs",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\InterfaceSegregationPrincipleDemo\\Program.cs",
+              "RelativeToolTip": "InterfaceSegregationPrincipleDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:10:59.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BookStore3.json",
+              "DocumentMoniker": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\InterfaceSegregationPrincipleDemo\\Data\\BookStore3.json",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrincipleDemo\\Data\\BookStore3.json",
+              "ToolTip": "D:\\ProgrammingFiles\\PRN222\\Chapter3\\InterfaceSegregationPrincipleDemo\\Data\\BookStore3.json",
+              "RelativeToolTip": "InterfaceSegregationPrincipleDemo\\Data\\BookStore3.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-26T07:15:18.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
