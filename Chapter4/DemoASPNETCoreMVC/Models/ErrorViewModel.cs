@@ -1,7 +1,9 @@
-namespace MyWebApp.Models
+namespace DemoASPNETCoreMVC.Models
 {
-    public class HomeModel
+    public class ErrorViewModel
     {
-        public string Message = "Welcome to ASP.NET MVC Core";
+        public string? RequestId { get; set; }
+
+        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }

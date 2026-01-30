@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using MyWebApp.Models;
+using DemoASPNETCoreMVC.Models;
 
 public class HomeController : Controller
 {
