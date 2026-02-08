@@ -1,0 +1,20 @@
+﻿@{
+    var trips = ViewBag.Trips as List<TravelDataAccess.Models.Trip>;
+}
+
+<h2>Create Booking</h2>
+
+<form method="post">
+    <label>Select Trip:</label>
+    <select name="tripId" class="form-control">
+        @if (trips != null)
+        {
+            @foreach (var t in trips)
+            {
+                <option value="@t.TripId">@t.Code - @t.Destination (@t.Price)</option>
+            }
+        }
+    </select>
+    <br />
+    <button class="btn btn-success" type="submit">Book</button>
+</form>

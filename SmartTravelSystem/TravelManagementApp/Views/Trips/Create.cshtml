@@ -1,0 +1,12 @@
+﻿@model TravelDataAccess.Models.Trip
+
+<h2>Add Trip</h2>
+
+<form method="post">
+    <div>Code <input asp-for="Code" class="form-control" /></div>
+    <div>Destination <input asp-for="Destination" class="form-control" /></div>
+    <div>Price <input asp-for="Price" class="form-control" /></div>
+    <div>Status <input asp-for="Status" class="form-control" /></div>
+    <br />
+    <button class="btn btn-primary">Save</button>
+</form>

@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Main";
+    var name = Context.Session.GetString("CustomerName");
+}
+
+<h2>Welcome, @name</h2>
+
+<ul>
+    <li><a asp-controller="Trips" asp-action="Index">Trip List</a></li>
+    <li><a asp-controller="Bookings" asp-action="MyBookings">My Bookings</a></li>
+    <li><a asp-controller="Account" asp-action="Logout">Logout</a></li>
+</ul>
