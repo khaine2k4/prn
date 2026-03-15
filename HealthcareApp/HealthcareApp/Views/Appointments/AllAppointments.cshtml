@@ -1,0 +1,43 @@
+@model List<CareBusiness.Entities.Appointment>
+@{
+    ViewData["Title"] = "All Appointments (Admin)";
+}
+
+<div class="container mt-4">
+    <h2 class="display-6 text-success mb-4"><i class="bi bi-shield-lock"></i> All System Appointments</h2>
+
+    <div class="table-responsive shadow-sm rounded-lg">
+        <table class="table table-hover align-middle mb-0 bg-white">
+            <thead class="bg-light">
+                <tr>
+                    <th>Patient</th>
+                    <th>Doctor</th>
+                    <th>Date</th>
+                    <th>Booking Time</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var appt in Model)
+                {
+                    <tr>
+                        <td><strong>@appt.Patient?.FullName</strong></td>
+                        <td>@appt.Doctor?.DoctorName</td>
+                        <td>@appt.AppointmentDate.ToShortDateString()</td>
+                        <td>@appt.BookingDate.ToString("g")</td>
+                        <td>
+                            @if (appt.IsCancelled)
+                            {
+                                <span class="badge bg-danger">Cancelled</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-success">Active</span>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

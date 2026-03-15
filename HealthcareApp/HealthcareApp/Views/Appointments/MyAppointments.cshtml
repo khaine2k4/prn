@@ -1,0 +1,62 @@
+@model List<CareBusiness.Entities.Appointment>
+@{
+    ViewData["Title"] = "My Appointments";
+}
+
+<div class="container mt-4">
+    <h2 class="display-6 text-primary mb-4"><i class="bi bi-calendar-check"></i> My Appointments</h2>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info text-center shadow-sm">
+            You haven't booked any appointments yet. <a asp-controller="Doctors" asp-action="Index" class="alert-link">Search for doctors now!</a>
+        </div>
+    }
+    else
+    {
+        <div class="table-responsive shadow-sm rounded-lg">
+            <table class="table table-hover align-middle mb-0 bg-white">
+                <thead class="bg-light">
+                    <tr>
+                        <th>Doctor</th>
+                        <th>Specialty</th>
+                        <th>Booking Date</th>
+                        <th>Appointment Date</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var appt in Model)
+                    {
+                        <tr>
+                            <td>
+                                <div class="d-flex align-items-center">
+                                    <div class="ms-3">
+                                        <p class="fw-bold mb-1">@appt.Doctor?.DoctorName</p>
+                                    </div>
+                                </div>
+                            </td>
+                            <td>@appt.Doctor?.Specialty</td>
+                            <td>@appt.BookingDate.ToShortDateString()</td>
+                            <td>@appt.AppointmentDate.ToShortDateString()</td>
+                            <td>
+                                @if (appt.IsCancelled)
+                                {
+                                    <span class="badge rounded-pill bg-danger">Cancelled</span>
+                                }
+                                else if (appt.AppointmentDate.Date < DateTime.Now.Date)
+                                {
+                                    <span class="badge rounded-pill bg-secondary">Completed</span>
+                                }
+                                else
+                                {
+                                    <span class="badge rounded-pill bg-success">Confirmed</span>
+                                }
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+</div>

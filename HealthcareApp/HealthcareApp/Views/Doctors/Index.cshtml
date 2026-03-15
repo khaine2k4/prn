@@ -1,0 +1,76 @@
+@model List<CareBusiness.Entities.Doctor>
+@{
+    ViewData["Title"] = "Doctors List";
+    var userRole = ViewBag.UserRole as string;
+}
+
+<div class="container mt-4">
+    <div class="row mb-4 align-items-center">
+        <div class="col">
+            <h2 class="display-6 text-primary"><i class="bi bi-person-badge"></i> Doctors Directory</h2>
+        </div>
+        @if (userRole == "Admin")
+        {
+            <div class="col-auto">
+                <a asp-action="Create" class="btn btn-success shadow-sm">
+                    <i class="bi bi-plus-lg"></i> Add New Doctor
+                </a>
+            </div>
+        }
+    </div>
+
+    <div class="card shadow-sm mb-4">
+        <div class="card-body">
+            <form method="get" class="row g-3">
+                <div class="col-md-10">
+                    <input type="text" name="keyword" value="@ViewBag.Keyword" class="form-control" placeholder="Search by Name, Specialty, or License..." />
+                </div>
+                <div class="col-md-2">
+                    <button type="submit" class="btn btn-primary w-100 shadow-sm">Search</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-warning text-center shadow-sm" role="alert">
+            <i class="bi bi-exclamation-triangle"></i> No doctors available for the selected criteria.
+        </div>
+    }
+    else
+    {
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            @foreach (var doctor in Model)
+            {
+                <div class="col">
+                    <div class="card h-100 shadow-sm doctor-card">
+                        <div class="card-body">
+                            <h5 class="card-title text-primary">@doctor.DoctorName</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">@doctor.Specialty</h6>
+                            <p class="card-text">
+                                <small class="text-muted">License: @doctor.LicenseNumber</small><br/>
+                                <small class="text-muted">Daily Limit: @doctor.MaxPatients</small>
+                            </p>
+                        </div>
+                        <div class="card-footer bg-transparent border-top-0 pb-3">
+                            @if (userRole == "Patient")
+                            {
+                                <a asp-controller="Appointments" asp-action="Book" asp-route-doctorId="@doctor.ID" class="btn btn-outline-primary w-100 btn-sm rounded-pill">Book Appointment</a>
+                            }
+                            else if (userRole == "Admin")
+                            {
+                                <span class="badge bg-secondary">System Admin Mode</span>
+                            }
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>
+
+<style>
+    .doctor-card { transition: transform 0.2s; }
+    .doctor-card:hover { transform: translateY(-5px); }
+</style>

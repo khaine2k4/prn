@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HealthcareApp/HealthcareApp.csproj" />
+  <Project Path="CareBusiness/CareBusiness.csproj" />
+  <Project Path="CareDataAccess/CareDataAccess.csproj" />
+  <Project Path="CareRepositories/CareRepositories.csproj" />
+</Solution>
