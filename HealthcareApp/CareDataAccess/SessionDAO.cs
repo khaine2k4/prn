@@ -1,5 +1,6 @@
 using CareBusiness;
 using CareBusiness.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace CareDataAccess
 {
@@ -21,6 +22,7 @@ namespace CareDataAccess
         public Session? GetByIdWithUser(string sessionId)
         {
             return _context.Sessions
+                .Include(s => s.User)
                 .FirstOrDefault(s => s.SessionID == sessionId && s.ExpiresAt > DateTime.Now);
         }
 
