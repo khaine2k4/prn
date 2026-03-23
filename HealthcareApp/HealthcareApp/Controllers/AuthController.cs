@@ -51,11 +51,11 @@ namespace HealthcareApp.Controllers
 
                 if (user.Role == "Admin")
                 {
-                    return RedirectToAction("Index", "Doctors");
+                    return RedirectToAction("Index", "Doctors"); // Admin vào trang quản lý Bác sĩ
                 }
                 else
                 {
-                    return RedirectToAction("Index", "Doctors"); // Or search page
+                    return RedirectToAction("Index", "Home"); // Bệnh nhân/Người thường về Trang chủ
                 }
             }
 

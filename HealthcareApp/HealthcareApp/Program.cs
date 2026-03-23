@@ -8,7 +8,10 @@ using CareRepositories.Interfaces;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews(options =>
+{
+    options.Filters.Add<HealthcareApp.Filters.LoadUserFilter>();
+});
 builder.Services.AddDbContext<HealthcareContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("HealthcareDB")));
 

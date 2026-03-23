@@ -5,7 +5,6 @@ using HealthcareApp.Filters;
 
 namespace HealthcareApp.Controllers
 {
-    [SessionAuth]
     public class DoctorsController : Controller
     {
         private readonly IDoctorRepository _doctorRepository;
